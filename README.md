@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
   <img src="https://i.imgur.com/AHhB2rP.jpeg" width="100%" alt="Hogwarts Castle" />
 </div>
 
@@ -53,15 +53,13 @@ _A dual-house witch crafting clean code and charming commits. Brave as a lion, c
 
 ### 👥 The Dev Fam
 
-<table>
-  <tr>
-    <td align="center"><img src="https://i.imgur.com/HqJYzoP.jpeg" width="100"/><br />Harry</td>
-    <td align="center"><img src="https://i.imgur.com/yctQwvS.jpeg" width="100"/><br />Hermione</td>
-    <td align="center"><img src="https://i.imgur.com/3id1IjP.jpeg" width="100"/><br />Ron</td>
-    <td align="center"><img src="https://i.imgur.com/S4MPPoP.jpeg" width="100"/><br />Draco</td>
-    <td align="center"><img src="https://i.imgur.com/nS2iklv.jpeg" width="100"/><br />Dobby</td>
-  </tr>
-</table>
+| Character | Role |
+|----------|------|
+| 🧙‍♂️ Harry | Pushes brave but sometimes buggy commits |
+| 📚 Hermione | Squashes bugs before they hatch |
+| 🧡 Ron | Finds creative solutions when Wi-Fi is down |
+| 😏 Draco | Uses dark mode and dark arts (aka Git rebase) |
+| 🧦 Dobby | CI/CD pipeline elf – always running tests |
 
 ---
 
